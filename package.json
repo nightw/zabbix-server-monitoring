@@ -1,0 +1,14 @@
+{
+    "name": "zabbix-server-monitor",
+    "version": "0.1.0",
+    "release_date" : "2014-10-28",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "q" : "1.0.1",
+        "zabbix": "0.1.0"
+    },
+    "devDependencies": {
+    }
+}
